@@ -25,7 +25,7 @@ Christangarife95@gmail.com
 # Username
 Check out my other work on [Github](https://github.com/ChrisCodes54)
 # Screenshots and Video Link to walkthrough
-Watch the walkthrough video by clicking [here](SHARE THE VIDEO LINK HERE)
+Watch the walkthrough video by clicking [here](https://drive.google.com/file/d/1DUkvVvRpAsGBCb0EzkLfDUOIHaGM8TlB/view?usp=sharing)
 
 ![Example of doing a category GET request](images/ecommerce.PNG)
 
